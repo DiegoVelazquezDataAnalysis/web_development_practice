@@ -1,2 +1,4 @@
 # TT_proyecto7
-Practicra tareas habituales de la ingenieria de software
+Practicar tareas habituales de la ingenieria de software
+
+Creacion de un histograma interactivo para una pp web
